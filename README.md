@@ -1,8 +1,6 @@
 # khi-dl-cli
 cli tool to download MP3s from khinsider
 
-![result](https://github.com/nisaji/khi-dl-cli/blob/master/gif/dl.gif?raw=true)
-
 ### Example usage
 ```main.py "Mario"```
 Select game title with cursor```↑``` ```↓``` and press ```Enter```
